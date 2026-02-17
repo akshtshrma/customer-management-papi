@@ -40,6 +40,16 @@ GET /api/customers
 POST /api/customers
 ```
 
+### Get Asset Details
+```
+GET /api/asset-details
+```
+
+### Create Asset Details
+```
+POST /api/asset-details
+```
+
 ---
 
 ## Run Locally
