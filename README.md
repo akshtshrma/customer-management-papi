@@ -20,10 +20,24 @@ The project follows API-led connectivity principles and is designed for enterpri
 ## Project Structure
 
 ```
-src/main/mule/          
-src/main/resources/     
-src/test/munit/         
-pom.xml                 
+src/main/mule/          # Mule flows
+src/main/resources/     # API specs & properties
+src/test/munit/         # MUnit test cases
+pom.xml                 # Maven configuration
+```
+
+---
+
+## API Endpoints
+
+### Get Customers
+```
+GET /api/customers
+```
+
+### Create Customer
+```
+POST /api/customers
 ```
 
 ---
