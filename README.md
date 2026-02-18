@@ -50,6 +50,11 @@ GET /api/asset-details
 POST /api/asset-details
 ```
 
+### Create Payment Details
+```
+POST /api/payment-details
+```
+
 ---
 
 ## Run Locally
